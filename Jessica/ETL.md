@@ -33,8 +33,8 @@ We then used Python Pandas in a Jupyter notebook in Databricks to load the data 
 |     |   room_type   |   string   | string | listing.csv | no transx |
 |     |   accommodates   |   integer   | integer | listing.csv | no transx |
 |     |   price   |   integer   | integer | listing.csv | no transx |
-|     |   price_euro   |   integer   | integer | listing.csv | converted NYC prices to euro |
-|     |   price_usd   |   integer   | integer | listing.csv | converted Paris prices to USD |
+|     |   price_euro   |   integer   |  |  | converted NYC prices to euro |
+|     |   price_usd   |   integer   |  |  | converted Paris prices to USD |
 |     |   minimum_nights   |   integer   | integer | listing.csv | no transx |
 |     |   maximum_nights   |   integer   | integer | listing.csv | no transx |
 |     |   review_scores_ratings   |   double   | double | listing.csv | no transx |
@@ -44,11 +44,11 @@ We then used Python Pandas in a Jupyter notebook in Databricks to load the data 
 |     |   review_scores_communication   |   double   | double | listing.csv | no transx |
 |     |   review_scores_location   |   double   | double | listing.csv | no transx |
 |     |   review_scores_value   |   double   | double | listing.csv | no transx |
-|     |   # of airbnb reviews   |   double   | double | review.csv | collected the count of reviews and joined them to this table on listing_id |
+|     |   # of airbnb reviews   |   double   |  | review.csv | collected the count of reviews and joined them to this table on listing_id |
 |     |   instant_bookable   |   string   | string | listing.csv | no transx |
-|     |   # w/in 2mi   |   double   | double | yelp api | using results from yelp api, counting how many yelp attractions and restaurants are within 2 miles of the listing |
-|     |   Avg yelp rating   |   double   | double | yelp api | average rating of yelp locations within 2 miles |
-|     |   % Restaurants   |   double   | double | yelp api | percentage of restaurants vs attractions of nearby yelp locations |
+|     |   # w/in 2mi   |   double   |  | yelp api | using results from yelp api, counting how many yelp attractions and restaurants are within 2 miles of the listing |
+|     |   Avg yelp rating   |   double   |  | yelp api | average rating of yelp locations within 2 miles |
+|     |   % Restaurants   |   double   |  | yelp api | percentage of restaurants vs attractions of nearby yelp locations |
 
 
 ### Load
