@@ -56,6 +56,7 @@ We then loaded the data from the Jupyter Notebook into the AirJNJ SQL database f
 
 ml = spark.read.option("escape", "\"").csv('/mnt/airjnj/Clean/ml.csv', header=True, inferSchema=True)
 
+```python
 ml.write.format("jdbc").option(
     "url", f"jdbc:sqlserver://{server}:1433;databaseName={database};"
     ) \
@@ -65,10 +66,6 @@ ml.write.format("jdbc").option(
     .option("password", airjnj_db_password) \
     .option("driver", "com.microsoft.sqlserver.jdbc.SQLServerDriver") \
     .save()
-
-
-
-
-
+```
 
 
