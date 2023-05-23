@@ -1,0 +1,100 @@
+,Feature,Importance
+0,# of Airbnb Reviews,0.006267
+1,# within 2 Miles,0.021227727
+2,Avg Yelp Rating,0.01036412
+3,Boat,0.003001927
+4,Brooklyn,0.019424561
+5,Bus,0
+6,Camper/RV,0.003145376
+7,Campsite,0
+8,Casa particular,0
+9,Cave,0
+10,Dome house,0
+11,Earth house,0
+12,Entire apartment,0.036349647
+13,Entire bed and breakfast,0
+14,Entire bungalow,0.003328925
+15,Entire chalet,0
+16,Entire condominium,0.013411652
+17,Entire cottage,0.00176707
+18,Entire floor,0
+19,Entire guest suite,0.00365514
+20,Entire guesthouse,0
+21,Entire home/apt,0.00213053
+22,Entire house,0.007451534
+23,Entire loft,0.019154243
+24,Entire place,0.002493354
+25,Entire serviced apartment,0.015978713
+26,Entire townhouse,0.006278818
+27,Entire villa,0.002116507
+28,Houseboat,0.004180844
+29,Island,0
+30,Lighthouse,0
+31,Manhattan,0.070134044
+32,Paris,0.031567298
+33,Private room,0.004471653
+34,Private room in apartment,0.094556339
+35,Private room in barn,0
+36,Private room in bed and breakfast,0
+37,Private room in boat,0
+38,Private room in bungalow,0
+39,Private room in cabin,0
+40,Private room in camper/rv,0
+41,Private room in casa particular,0
+42,Private room in castle,0.001979652
+43,Private room in condominium,0.012106522
+44,Private room in cottage,0.003105358
+45,Private room in dome house,0
+46,Private room in dorm,0
+47,Private room in earth house,0.002913969
+48,Private room in farm stay,0
+49,Private room in floor,0
+50,Private room in guest suite,0
+51,Private room in guesthouse,0
+52,Private room in hostel,0.005760225
+53,Private room in house,0.015085997
+54,Private room in houseboat,0
+55,Private room in in-law,0
+56,Private room in loft,0.005463307
+57,Private room in nature lodge,0
+58,Private room in resort,0.003037728
+59,Private room in serviced apartment,0
+60,Private room in tiny house,0
+61,Private room in townhouse,0.023188522
+62,Private room in train,0
+63,Private room in villa,0.002317638
+64,Queens,0.0041745
+65,Room in aparthotel,0.015144539
+66,Room in bed and breakfast,0
+67,Room in boutique hotel,0.093047813
+68,Room in hostel,0
+69,Room in hotel,0.019094788
+70,Room in resort,0
+71,Room in serviced apartment,0.007620583
+72,Shared room in apartment,0.014919785
+73,Shared room in bed and breakfast,0.005570946
+74,Shared room in bungalow,0
+75,Shared room in cabin,0.005035593
+76,Shared room in condominium,0.002986315
+77,Shared room in earth house,0
+78,Shared room in floor,0
+79,Shared room in guest suite,0
+80,Shared room in guesthouse,0
+81,Shared room in hostel,0.003557437
+82,Shared room in house,0.008131092
+83,Shared room in loft,0.002583035
+84,Shared room in serviced apartment,0
+85,Shared room in tiny house,0
+86,Shared room in townhouse,0
+87,Staten Island,0
+88,Tiny house,0
+89,Treehouse,0.004190011
+90,Accommodates,0.050650869
+91,Bedrooms,0.232873857
+92,Review Scores - Accuracy,0.003184889
+93,Review Scores - Checkin,0.00439729
+94,Review Scores - Cleanliness,0.019154482
+95,Review Scores - Communication,0.006286244
+96,Review Scores - Location,0.019150499
+97,Review Scores - Rating,0.011500702
+98,Review Scores - Value,0.009328758
