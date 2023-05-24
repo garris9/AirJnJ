@@ -33,6 +33,9 @@ This study aims to assist Airbnb hosts in maximizing their rental income by leve
   - The Airbnb Listing CSV was too large to include on the repo, but can be found at [Airbnb Listing and Reviews](https://www.kaggle.com/datasets/mysarahmadbhat/airbnb-listings-reviews).
   - The data folder also contains an [API Calls](https://github.com/garris9/AirJnJ/tree/main/data/API%20Calls) folder where the notebook with the code and information about the API calls is kept
 
+## Dashboard
+![Dashboard](https://github.com/garris9/AirJnJ/blob/main/EDA/IMG/dash.gif)
+
 ## Guiding Questions
 
 Our group's main aim during this project was to use data-driven insights to answer the question of: 
