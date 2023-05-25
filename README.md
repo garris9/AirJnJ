@@ -35,6 +35,7 @@ This study aims to assist Airbnb hosts in maximizing their rental income by leve
 
 ## Dashboard
 ![Dashboard](https://github.com/garris9/AirJnJ/blob/main/IMG/dash.gif)
+- Visit our live dashboard here: [Dashboard](https://app.powerbi.com/groups/me/apps/8e6ba15d-1ed2-45c4-b5fb-ebcd539b8a61/dashboards/cca3d8c6-a7c0-4461-994a-9384c438bfe1?ctid=d4e104e3-ae7d-4371-a239-745aa8960cc9&experience=power-bi)
 
 ## Guiding Questions
 
